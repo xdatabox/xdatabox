@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  src="./me.png"  />
+  <img  src="./about.jpg"  />
 </div>
 
 # 💫 About Me
