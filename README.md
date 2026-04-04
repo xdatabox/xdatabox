@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
   <img  src="./about.jpg"  />
-</div>
+</div> -->
 
 # 💫 About Me
 ### <div align="center">Waison Lee, Well-rounded Software Engineer💻 Developing since 2020 🚀</div>
