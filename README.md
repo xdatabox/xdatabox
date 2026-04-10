@@ -6,7 +6,7 @@
 # 💫 About Me
 ### <div align="center">Waison Lee, Well-rounded Software Engineer💻 Developing since 2020 🚀</div>
   
-#### <div align="center" >Hello, I'm Waison—a product-oriented Fullstack Engineer providing comprehensive tech solutions including app development, AI integration and system administration. My commitment to blending innovation with practicality ensures user-friendly results tailored for success. Let's collaborate on making your vision a reality!</div>
+#### <div align="center" >Hello, I'm a product-oriented Fullstack Engineer providing comprehensive tech solutions including app development, AI integration and system administration. My commitment to blending innovation with practicality ensures user-friendly results tailored for success. Let's collaborate on making your vision a reality!</div>
 
 <br/>
 
