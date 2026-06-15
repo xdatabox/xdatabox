@@ -30,10 +30,7 @@
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdatabox&repo=AprendeUAT&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/xdatabox/AprendeUAT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fennec-studio&repo=fijo-app&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Fennec-Studio/FiJo-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Campus-TD&repo=API-TutorIA&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Campus-TD/API-TutorIA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdatabox&repo=MyWeather&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/xdatabox/MyWeather)
-
 
 </div>
 
