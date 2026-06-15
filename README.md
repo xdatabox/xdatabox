@@ -38,7 +38,7 @@
 </div>
 
 # 🌐 Socials
-<div align="center"><a href="https://github.com/Josephglz" target="_blank">
+<div align="center"><a href="https://github.com/xdatabox" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/channels/@me/245316687287681025/" target="_blank">
@@ -47,7 +47,7 @@
 <a href="https://x.com/lee_waison" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.io/JosephGlz" target="_blank">
+<a href="https://codepen.io/xdatabox" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23131417.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 
