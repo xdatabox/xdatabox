@@ -26,14 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xdatabox&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-# 🕛 Recent Projects
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdatabox&repo=AprendeUAT&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/xdatabox/AprendeUAT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdatabox&repo=MyWeather&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/xdatabox/MyWeather)
-
-</div>
-
 # 🌐 Socials
 <div align="center"><a href="https://github.com/xdatabox" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
