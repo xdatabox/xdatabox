@@ -12,24 +12,6 @@
 
 ---
 
-## Expertise
-
-| Area | Focus |
-|------|--------|
-| Backend | APIs, services, databases, performance |
-| Frontend | Modern web apps, UX, and maintainable UI code |
-| Architecture | Scalability, reliability, and technical debt control |
-
----
-
-## Principles
-
-- **Simplicity first** — Prefer the smallest solution that solves the problem
-- **Code that lasts** — Readable, testable, and easy to change
-- **Ship and learn** — Deliver incrementally and improve from feedback
-
----
-
 ## Connect
 
 [Email](mailto:terry951014g@gmail.com)
