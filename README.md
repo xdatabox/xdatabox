@@ -1,8 +1,8 @@
-# Senior Software Developer
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/xdatabox/xdatabox/main/banner1900_300.png" width="100%" />
 </p>
+
+# Senior Software Developer
 
 **7+ years** building and shipping scalable web applications and backend systems. I focus on clear architecture, maintainable code, and systems that perform under load.
 
