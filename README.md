@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xdatabox/xdatabox/main/banner1900_300.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/xdatabox/xdatabox/refs/heads/main/banner.jpg" width="100%" />
 </p>
 
 # Senior Software Developer
