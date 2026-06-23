@@ -6,8 +6,6 @@
 
 **7+ years** building and shipping scalable web applications and backend systems. I focus on clear architecture, maintainable code, and systems that perform under load.
 
----
-
 ## What I Do
 
 - **Full-stack development** — End-to-end ownership from API design to UI and deployment
